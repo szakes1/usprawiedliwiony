@@ -1,0 +1,6 @@
+{
+  "name": "Usprawiedliwiony",
+  "version": "1.0",
+  "description": "Usprawiedliwiony - czyli wtyczka do Vulcanowego dzienniczka, która sama usprawiedliwi ci godziny",
+  "manifest_version": 2
+}
