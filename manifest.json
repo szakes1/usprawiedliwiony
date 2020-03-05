@@ -2,5 +2,13 @@
   "name": "Usprawiedliwiony",
   "version": "1.0",
   "description": "Usprawiedliwiony - czyli wtyczka do Vulcanowego dzienniczka, która sama usprawiedliwi ci godziny",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "content_scripts":
+  [
+    {
+      "matches": ["https://uonetplus-opiekun.vulcan.net.pl/*"],
+      "js": ["thirdParty/jquery-3.4.1.min.js", "scripts/usprawiedliwiony.js"]
+    }
+  ]
+
 }
