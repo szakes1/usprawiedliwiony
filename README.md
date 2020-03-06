@@ -6,7 +6,7 @@ Czyli wtyczka do Google Chrome, która umożliwia podmianę nieobecności na obe
 
 
 
-Niedługo dostępna na Google Webstore.
+Pobrać można stąd: [https://chrome.google.com/webstore/detail/usprawiedliwiony/deaeilckcgeegfeachpminjdhgcocbop](https://chrome.google.com/webstore/detail/usprawiedliwiony/deaeilckcgeegfeachpminjdhgcocbop?fbclid=IwAR3x1JGfxb771lgKrrQ2kDAbvSIwf7cM6hy3hpyqmE1Ju7PJYRMx79PMrkw)
 
 
 
